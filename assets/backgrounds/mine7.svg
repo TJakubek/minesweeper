@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.2078mm" height="5.969mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6976 9896"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="605" font-variant="normal" class="str0" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Calibri">
+		<font-face-src>
+			<font-face-name name="Calibri Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="7" horiz-adv-x="506" d="M466.994 578.006c0,-9.50784 -0.330707,-17.6692 -0.992122,-24.6731 -0.673226,-7.00391 -1.49999,-13.4999 -2.66928,-19.4999 -1.16929,-5.99998 -2.66928,-11.6692 -4.66534,-16.996 -1.8307,-5.33856 -4.16927,-11.1732 -6.83856,-17.3385l-207.826 -482.502c-2.00787,-4.15746 -4.49998,-7.66532 -7.49997,-10.1574 -3.16534,-2.66928 -7.49997,-4.67715 -13.0039,-6.17714 -5.50392,-1.49999 -12.6614,-2.49212 -21.1653,-2.99999 -8.66926,-0.496061 -19.3346,-0.661415 -31.9959,-0.661415 -17.1732,0 -30.8385,0.496061 -41.0077,1.66535 -9.99209,1.16929 -17.4921,2.99999 -22.1692,5.50392 -4.66534,2.32676 -7.32281,5.4921 -7.49997,9.16532 -0.330707,3.82676 0.673226,8.5039 3.34251,13.996l222.991 493.675 -265.499 0c-6.82674,0 -12,4.49998 -15.3306,13.3228 -3.49605,8.99996 -5.1614,23.1731 -5.1614,42.6731 0,9.66138 0.496061,18.1653 1.49999,25.0038 0.992122,6.9921 2.32676,12.8267 4.15746,17.3267 1.84251,4.49998 3.83857,7.83068 6.34249,9.67319 2.49212,1.99606 5.32675,2.99999 8.49209,2.99999l375.672 0c5.99998,0 10.8307,-0.507872 14.6692,-1.67716 3.99211,-1.15748 6.9921,-3.6614 9.33067,-7.49997 2.32676,-3.99211 4.00392,-9.49603 5.1614,-16.6653 1.16929,-7.15745 1.66535,-16.4999 1.66535,-28.1574z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Calibri";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:69.9642}
+    .str1 {stroke:#373435;stroke-width:982.483}
+    .fil0 {fill:#A53692}
+    .fnt0 {font-weight:bold;font-size:14037.1px;font-family:'Calibri'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-70" y="9363"  class="fil0 str1 fnt0">7</text>
+ </g>
+</svg>
