@@ -501,6 +501,8 @@ p {
   display: flex;
   flex-direction: row;
   position: relative;
+  width: 50%;
+  margin-left: 12rem;
 }
 .generate-button {
   width: 40%;
