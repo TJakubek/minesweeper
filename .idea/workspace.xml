@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1b152e-8ffe-4059-a870-8a2e093ad23d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.bowerrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.yo-rc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/Backup_of_background.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/New folder/mine8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/background.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/brokenflag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/flag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/flag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/flag_Images/flag_ImgID1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/mine8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/backgrounds/question.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scripts/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scripts/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/spec/test.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,7 +20,10 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,7 +125,7 @@
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../minesweeper" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="D:\projects\minesweeper\node_modules\eslint" />
@@ -219,12 +178,12 @@
       <workItem from="1527781663163" duration="670000" />
       <workItem from="1527789304935" duration="603000" />
       <workItem from="1527854063045" duration="3355000" />
-      <workItem from="1527862705745" duration="361000" />
+      <workItem from="1527862705745" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151491000" />
+    <option name="totallyTimeSpent" value="151716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -605,7 +564,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
