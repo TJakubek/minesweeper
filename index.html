@@ -1,0 +1,102 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Minesweeper</title>
+
+    <link rel="icon" href="logo.png">
+    <link rel="stylesheet" href="styles/main.css">
+
+
+
+</head>
+<body>
+
+<div class="content-box">
+
+    <section class='UI-box'>
+
+
+        <div class='settings-box'>
+            <div class='settings-box__button-box'>
+                <h3 class='settings-box__title'>Choose your skill</h3>
+                <button class='settings-button' id='easy'>Easy</button>
+                <button class='settings-button active-button' id='medium'>Medium</button>
+                <button class='settings-button' id='hard'>Hard</button>
+                <button class='settings-button' id='custom'>Custom</button>
+            </div>
+
+            <div class='custom-options-box'>
+                <div class='custom-options-box__option'>
+                    <label for='rowCount' class='custom-options-box__option__label'>
+                        Amount of rows:
+                    </label>
+                    <input type='text' name='rows' id='rowCount' class='custom-options-box__option__input' value='16' disabled>
+                </div>
+                <div class='custom-options-box__option'>
+                    <label for='columnCount' class='custom-options-box__option__label'>
+                        Amount of columns:
+                    </label>
+                    <input type='text' name='columns' id='columnCount' class='custom-options-box__option__input' value='16' disabled>
+                </div>
+                <div class='custom-options-box__option'>
+                    <label for='mineCount' class='custom-options-box__option__label'>
+                        Amount of mines:
+                    </label>
+                    <input type='text' name='mines' id='mineCount' class='custom-options-box__option__input' value='40' disabled>
+                </div>
+            </div>
+            <div id='informationBox' class='information-box'>
+                <h3>Please select a difficulty</h3>
+            </div>
+        </div>
+
+
+
+    </section>
+
+    <section class='score-box'>
+        <div class='score-box__item'>
+            <label for='minesLeftCounter' class='mines-left__text'>
+                Amount of mines remaining:
+            </label>
+            <input type='text' name='minesLeft' id='minesLeftCounter' class='mines-left__value' value='0' disabled>
+        </div>
+        <div class='score-box__item'>
+            <label for='timeCounter' class='time-counter__text'>
+                Time playing:
+            </label>
+            <input type='text' name='timeCounter' id='timeCounter' class='time-counter__value' value='0' disabled>
+        </div>
+        <button class='generate-button' id='game-generate-button'>Generate game</button>
+    </section>
+
+    <section class='game-box' id='game-box'>
+
+    </section>
+
+
+    <button class='algo-button basic-algo'>Click to apply basic algorithm</button>
+    <div class='min-peri-box'>
+        <button class='algo-button minimal-perimeter-algo'>Click to apply minimal perimeter algorithm</button>
+        <div class='min-peri-loader hidden-loader'>
+            <p>Please wait</p>
+        </div>
+    </div>
+    <div class='warning-box'>
+        <h2 class='warning'>WARNING</h2>
+        <p class='warning-text'>Please try to use the basic algorithm and use the minimal perimeter algorithm when the former fails. The use of the minimal perimeter algorithm may freeze the page if the perimeter is very long. This is due to the way the algorithm works, as it must calculate all possible bomb combinations in a given perimeter. If the perimeter is long, the calculations become very complex and take long to finish. So please, use this algorithm wisely.
+        </p>
+    </div>
+</div>
+
+
+
+
+<script src="scripts/jquery-3.2.1.min.js"></script>
+<script src="scripts/main.js"></script>
+
+</body>
+</html>

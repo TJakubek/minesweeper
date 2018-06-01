@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.4205mm" height="6.9356mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 24 38"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="500" font-variant="normal" class="str0" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="DFGothic-EB">
+		<font-face-src>
+			<font-face-name name="DFGothic-EB"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="?" horiz-adv-x="500" d="M475.663 550.829c0,-55.3344 -15.9921,-100.334 -47.9998,-134.834 -16.1692,-17.4921 -35.6692,-29.3267 -58.4998,-35.1613 -15.6614,-4.49998 -30.6613,-8.83461 -44.9998,-12.6614 -12.3307,-5.83462 -18.496,-18.8385 -18.496,-38.9998l0 -106.5 -113.338 0 0 164.999c0,24.1653 5.00785,42.6612 14.6692,55.6651 9.16532,11.1614 25.4999,21.1653 48.8384,30.3306 7.15745,2.50393 19.8306,7.16926 38.1613,13.6653 31.1692,12.3307 46.8305,35.5038 46.8305,69.3304 0,43.0038 -32.1613,64.4997 -96.661,64.4997 -31.3345,0 -55.6651,-11.1614 -73.3344,-33.3306 -16.1692,-20.8346 -24.3306,-47.1612 -24.3306,-79.0036l0 -14.6574 -122.007 0c4.49998,167.999 81.6729,251.999 231.342,251.999 55.9958,0 103.83,-13.3346 143.657,-40.1691 50.6691,-34.4999 76.169,-86.1729 76.169,-155.173zm-134.834 -515.667l-38.1613 -38.1613 -105.33 0 -37.1691 37.1691 0 101.669 35.1613 33.1652 111.342 0 34.1573 -32.3385 0 -101.504z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"DFGothic-EB";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:69.9916}
+    .str1 {stroke:#373435;stroke-width:3.21644}
+    .fil0 {fill:#FEFEFE}
+    .fnt0 {font-weight:normal;font-size:45.9546px;font-family:'DFGothic-EB'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="1" y="36"  class="fil0 str1 fnt0">?</text>
+ </g>
+</svg>
